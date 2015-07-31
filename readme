@@ -1,4 +1,8 @@
 realtimepingpong
 
--cd public
--bower install bootstrap angular angular-ui-router angular-socket-io
+1. 'npm install --save'
+2. 'cd public'
+3. 'bower install bootstrap angular angular-ui-router angular-socket-io'
+4. 'cd ..'
+5. 'node ./bin/www'
+
