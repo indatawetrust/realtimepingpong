@@ -1,0 +1,7 @@
+<div class="index">
+<button class="btn btn-default" ng-click="createRoom()">create room</button>
+<ul>
+	<li ng-repeat="room in rooms"><button ng-click="loginRoom(room)" class="btn btn-primary">{{ room.split(' ')[0].replace('-',' ') }}</button></li>
+</ul>
+</div>
+<div ui-view></div>
