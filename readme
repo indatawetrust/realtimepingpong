@@ -2,10 +2,7 @@ realtimepingpong
 
 Install redis http://redis.io/
 
-1. npm install --save
-2. cd public
-3. bower install bootstrap angular angular-ui-router angular-socket-io
-4. cd ..
-5. node ./bin/www
+1. npm install --save && bower install
+2. node ./bin/www
 
 example : https://youtu.be/aA6YfYXnhzM
