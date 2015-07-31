@@ -7,3 +7,5 @@ Install redis http://redis.io/
 3. bower install bootstrap angular angular-ui-router angular-socket-io
 4. cd ..
 5. node ./bin/www
+
+example : https://youtu.be/aA6YfYXnhzM
