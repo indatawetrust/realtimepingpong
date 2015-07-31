@@ -1,1 +1,4 @@
 realtimepingpong
+
+-cd public
+-bower install bootstrap angular angular-ui-router angular-socket-io
