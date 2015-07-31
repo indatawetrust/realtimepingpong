@@ -1,0 +1,9 @@
+{
+  "name": "pipo",
+  "dependencies": {
+      "bootstrap":"*",
+      "angular":"*",
+      "angular-ui-router":"*",
+      "angular-socket-io":"*"
+  }
+}
